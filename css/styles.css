@@ -1,6 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
     background-color: #ffffff;
+    color: #434455;
 }
 
 a {
@@ -26,7 +27,7 @@ button {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -152,6 +153,8 @@ button {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
     color: #2e2f42;
 }
 
@@ -159,6 +162,7 @@ button {
 }
 
 .team-item {
+    background-color: #ffffff;
 }
 
 .team-item-title {
@@ -187,6 +191,8 @@ button {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
     color: #2e2f42;
 }
 
